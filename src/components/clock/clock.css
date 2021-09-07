@@ -1,0 +1,11 @@
+.clock {
+    background-image: url('./clock.png');
+    float: right;
+    width: 78px;
+    height: 25px;
+    font-size: 14px;
+    font-weight: lighter !important;
+    color: #fff;
+    padding-top: 5px;
+    padding-left: 15px;
+}
