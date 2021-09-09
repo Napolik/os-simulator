@@ -3,4 +3,13 @@
     height: 30px;
     left: 0;
     bottom: 0;
+    
+}
+
+.blackButton{
+    background-image: url('./start-button.png');
+}
+  
+.whiteButton{
+    background-image: url('./start-button-active.png');
 }
